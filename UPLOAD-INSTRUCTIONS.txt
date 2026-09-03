@@ -1,0 +1,31 @@
+FINAL SEO UPDATE — GITHUB
+=========================
+
+Live site:
+https://rsm-balachander-notary-dindigul.github.io/rsm-balachander-notary-website/
+
+Upload ALL files in this folder to the ROOT of the existing GitHub repository:
+rsm-balachander-notary-website
+
+These files intentionally overwrite the existing HTML / robots.txt / llms.txt files.
+A new sitemap.xml file is also added.
+
+After upload:
+1. Click "Commit changes".
+2. Wait 1–5 minutes for GitHub Pages to redeploy.
+3. Open:
+   https://rsm-balachander-notary-dindigul.github.io/rsm-balachander-notary-website/
+4. Also check:
+   https://rsm-balachander-notary-dindigul.github.io/rsm-balachander-notary-website/sitemap.xml
+   https://rsm-balachander-notary-dindigul.github.io/rsm-balachander-notary-website/robots.txt
+
+This update adds:
+- canonical URLs
+- og:url values
+- absolute social image URL
+- final live website URL inside LegalService schema
+- sitemap.xml
+- robots.txt Sitemap reference
+- live website URL in llms.txt
+
+Next: add the live website to Google Business Profile and submit it to Google Search Console.
