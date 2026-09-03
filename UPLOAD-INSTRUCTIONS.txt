@@ -1,31 +1,26 @@
-FINAL SEO UPDATE — GITHUB
-=========================
+SHORT URL SEO UPDATE
+====================
 
-Live site:
-https://rsm-balachander-notary-dindigul.github.io/rsm-balachander-notary-website/
+New website URL:
+https://rsm-balachander-notary-dindigul.github.io/
 
-Upload ALL files in this folder to the ROOT of the existing GitHub repository:
-rsm-balachander-notary-website
+Upload ALL files in this folder to the ROOT of your existing repository:
+rsm-balachander-notary-dindigul.github.io
 
-These files intentionally overwrite the existing HTML / robots.txt / llms.txt files.
-A new sitemap.xml file is also added.
+These files replace the old SEO URLs containing /rsm-balachander-notary-website/.
 
 After upload:
-1. Click "Commit changes".
-2. Wait 1–5 minutes for GitHub Pages to redeploy.
-3. Open:
-   https://rsm-balachander-notary-dindigul.github.io/rsm-balachander-notary-website/
-4. Also check:
-   https://rsm-balachander-notary-dindigul.github.io/rsm-balachander-notary-website/sitemap.xml
-   https://rsm-balachander-notary-dindigul.github.io/rsm-balachander-notary-website/robots.txt
+1. Commit directly to main.
+2. Wait 2-5 minutes for GitHub Pages to rebuild.
+3. Check:
+   https://rsm-balachander-notary-dindigul.github.io/
+   https://rsm-balachander-notary-dindigul.github.io/sitemap.xml
+   https://rsm-balachander-notary-dindigul.github.io/robots.txt
 
-This update adds:
-- canonical URLs
-- og:url values
-- absolute social image URL
-- final live website URL inside LegalService schema
-- sitemap.xml
-- robots.txt Sitemap reference
-- live website URL in llms.txt
+IMPORTANT: Keep your existing Google verification HTML file in the repository. Do not delete it.
 
-Next: add the live website to Google Business Profile and submit it to Google Search Console.
+Then:
+- Add https://rsm-balachander-notary-dindigul.github.io/ as a NEW URL-prefix property in Google Search Console.
+- Submit sitemap.xml in that new property.
+- Request indexing for https://rsm-balachander-notary-dindigul.github.io/ and https://rsm-balachander-notary-dindigul.github.io/notary-public-dindigul.html
+- Change the Google Business Profile website field to https://rsm-balachander-notary-dindigul.github.io/
